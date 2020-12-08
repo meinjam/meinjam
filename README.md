@@ -1,6 +1,9 @@
 ### Hi! 👋 I'm [Injamamul Haque][website]
 
 ## I'm a Tech Lover and Full Stack Developer!!
+- 👯 A technology enthusiast who loves to explore new technologies.
+- 🌱 I’m currently learning everything.
+- 
 
 <!--
 **meinjam/meinjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
