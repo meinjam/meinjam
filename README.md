@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm [Injamamul Haque][website]
 
-## I'm a Tech Lover and Full Stack Developer!!
-- 👯 A technology enthusiast who loves to explore new technologies.
+## I'm a Full Stack Developer!!
+- 👯 A tech lover and enthusiast who loves to explore new technologies.
 - 🌱 I’m currently learning everything.
 
 ### Connect with me:
