@@ -3,9 +3,7 @@
 ## I'm a Full Stack Developer!!
 - 👯 A tech lover and enthusiast who loves to explore new technologies.
 - 🌱 I’m currently learning everything.
-
 <br />
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="27px" src="https://img.icons8.com/cute-clipart/2x/globe.png" />][website]
