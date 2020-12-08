@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning everything.
 <br />
 ### Connect with me:
-
 [<img align="left" alt="codeSTACKr.com" width="27px" src="https://img.icons8.com/cute-clipart/2x/globe.png" />][website]
 [<img align="left" alt="codeSTACKr | Facebook" width="27px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="27px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
