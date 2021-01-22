@@ -2,7 +2,8 @@
 
 ## I'm a Full Stack Developer!!
 - 👯 A tech lover and enthusiast who loves to explore new technologies.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning react and django.
+- 🥅 2021 Goals: Want to be a pro Frontend Engineee.
 
 <br />
 
