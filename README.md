@@ -49,7 +49,15 @@ Innovative Front End focused Full Stack Developer with over 2.5+ years of experi
 
 <br />
 
-<div align="">&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=meinjam&show_icons=true&title_color=ffffff&icon_color=F78B31&text_color=daf7dc&bg_color=151515" alt="Injamamul Haque" /></div>
+<div align="">&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=meinjam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Injamamul Haque" /></div>
+
+<br />
+
+<div align="">&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=meinjam&theme=tokyonight&hide_border=true" alt="Injamamul Haque" /></div>
+
+<br />
+
+<div align="">&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinjam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Injamamul Haque" /></div>
 
 
 <!--
