@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm [Injamamul Haque][website]
-Innovative Front End focused Full Stack Developer with over 2.5+ years of experience building and maintaining responsive websites and mobile apps. Proficient in HTML, CSS, JavaScript, Typescript, React, Next js, Bootstrap, Tailwind, Sass, Rest API, Ant Design and jQuery. Familiar with React Native, Vue, Node , Express, Laravel, MySQL, MongoDB, Firebase plus modern technologies, libraries and frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop, Adobe XD and Figma.
+Innovative frontend focused full stack developer with over 3 years of experience building and maintaining responsive web and mobile apps. Proficient in HTML, CSS, JavaScript, Typescript, Sass, Rest API, React, React Native, Bootstrap, JQuery, Tailwind, Next js, express js, mongodb and Laravel; plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop, Adobe XD and Figma.
 
 
 <img src="https://komarev.com/ghpvc/?username=meinjam&label=Profile%20views&color=0e75b6&style=flat" alt="meinjam" />
@@ -13,37 +13,38 @@ Innovative Front End focused Full Stack Developer with over 2.5+ years of experi
 
 <br />
 
-### Connect with me:
+### Dev and Social Links:
 
-[<img align="left" alt="injam.netlify.app" width="27px" src="https://img.icons8.com/cute-clipart/2x/globe.png" />][website]
-[<img align="left" alt="injam | LinkedIn" width="27px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
-[<img align="left" alt="injam | whats app" width="27px" src="https://img.icons8.com/cute-clipart/2x/whatsapp.png" />][whatsapp]
-[<img align="left" alt="injam | Facebook" width="27px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
-[<img align="left" alt="injam | Instagram" width="27px" src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" />][instagram]
-[<img align="left" alt="injam | Twitter" width="27px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
+[<img align="left" alt="injam.netlify.app" height="27px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/social%20icons/planet-earth.png" />][website]
+[<img align="left" alt="injam | LeetCode" height="27px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/social%20icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="injam | Css Battle" height="27px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/social%20icons/css-battle-logo-square.png" />][cssbattle]
+[<img align="left" alt="injam | LinkedIn" height="27px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/social%20icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="injam | whats app" height="27px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/social%20icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="injam | Facebook" height="27px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/social%20icons/facebook.svg" />][facebook]
+[<img align="left" alt="injam | Instagram" height="27px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/social%20icons/instagram.svg" />][instagram]
+[<img align="left" alt="injam | Twitter" height="27px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/social%20icons/twitter.svg" />][twitter]
 <br />
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="BOOTSATRAP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="TAILWIND" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="left" alt="node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML5" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/html.svg" />
+<img align="left" alt="CSS3" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/css.svg" />
+<img align="left" alt="BOOTSATRAP" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/bootstrap.svg" />
+<img align="left" alt="TAILWIND" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/tailwind.svg" />
+<img align="left" alt="Sass" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/sass-wordmark.svg" />
+<img align="left" alt="JavaScript" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/js.svg" />
+<img align="left" alt="Typescript" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/typescript.png" />
+<img align="left" alt="react" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/reactjs.svg" />
+<img align="left" alt="vue" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/vuejs.svg" />
+<img align="left" alt="node" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/nodejs.svg" />
+<img align="left" alt="express" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" alt="laravel" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/laravel.svg" />
+<img align="left" alt="mongodb" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/mongodb.svg" />
+<img align="left" alt="MySQL" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/mysql.svg" />
+<img align="left" alt="Git" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/git.svg" />
+<img align="left" alt="Visual Studio Code" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/7f7d35422aeafe16e60bac363bdd6b8a620bef79/programming%20icons/vscode-original.svg" />
+<img align="left" alt="Jest" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/jest.svg" />
+<img align="left" alt="Linux" height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 <br />
 <br />
@@ -84,3 +85,5 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/meinjam
 [twitter]: https://twitter.com/meinjam
 [whatsapp]: https://wa.me/8801685970744
+[leetcode]: https://leetcode.com/meinjam
+[cssbattle]: https://cssbattle.dev/player/meinjam
