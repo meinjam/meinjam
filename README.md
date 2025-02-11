@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm [Injamamul Haque][website]
-Innovative frontend focused full stack developer with over 3 years of experience building and maintaining responsive web and mobile apps. Proficient in HTML, CSS, JavaScript, Typescript, Sass, Rest API, React, React Native, Bootstrap, JQuery, Tailwind, Next js, express js, mongodb and Laravel; plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop, Adobe XD and Figma.
+Innovative frontend focused full stack developer with over 4.5 years of experience building and maintaining responsive web and mobile apps. Proficient in HTML, CSS, JavaScript, Typescript, Sass, Rest API, React, React Native, Bootstrap, JQuery, Tailwind, Next js, express js, mongodb and Laravel; plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop, Adobe XD and Figma.
 
 
 <img src="https://komarev.com/ghpvc/?username=meinjam&label=Profile%20views&color=0e75b6&style=flat" alt="meinjam" />
