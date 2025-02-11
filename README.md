@@ -59,7 +59,7 @@ Innovative frontend focused full stack developer with over 4.5 years of experien
 
 <div align="">&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=meinjam&theme=tokyonight&hide_border=true" alt="Injamamul Haque" /></div>
 
-<br />
+<br/>
 
 <div align="">&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meinjam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Injamamul Haque" /></div>
 
